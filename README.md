@@ -1,7 +1,5 @@
 # 📱 Mobile Sales Data Analysis (MySQL + Power BI)
 
-“End-to-end data analytics project using SQL and Power BI to analyze mobile sales data, uncover trends, and build interactive dashboards for business insights.”
-
 ##📌 Project Overview
 
 End-to-end data analytics project using SQL and Power BI to analyze mobile sales data, uncover trends, and build interactive dashboards for business insights.
@@ -139,7 +137,6 @@ Cities like Ranchi($31.02M) and Lucknow($28.84M) are generating strong revenue, 
 
 <img width="711" height="458" alt="image" src="https://github.com/user-attachments/assets/09b22c5a-353e-4081-9d09-ce308323b731" />
 
-
 #### insight 
 
 The business shows strong overall growth of 33.98% YoY, despite small drops in 2023 and 2024, indicating long-term stability.
@@ -152,21 +149,13 @@ Revenue is evenly distributed across all days of the week, showing no weekend sp
 → Maintain consistent promotions and operations throughout the week instead of focusing only on weekends.
 
 
-### 🛠️ Tech Stack
-
- Tool              Purpose
-
-MySQL       Data cleaning, querying, window functions
-
-Power BI    DesktopInteractive dashboard & visualization
-
-
 ### 👤 Author
 Sayali Sutar 
 
-linkdin- www.linkedin.com/in/sayali-sutar-0167273b4
 
-GitHub- https://github.com/sayalisutar1001-DA
+LinkedIn - www.linkedin.com/in/sayali-sutar-0167273b4
+
+GitHub- https://github.com/sayalisutar1001-DA](https://github.com/sayalisutar1001-DA/-Mobile-Sales-Data-Analysis/edit/main)
 
 
 
