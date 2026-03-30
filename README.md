@@ -97,7 +97,7 @@ Time-based Revenue Analysis
 
 ![Mobile Sales Dashboard](images/Dashboard-1.png)
 
-#### Insight 
+#### Insight:
 
 Samsung is leading the market, while Apple is closely competing, indicating that the market is highly competitive.
 → Increase competitive offers, discounts, and focus on feature-based marketing.
@@ -116,7 +116,7 @@ Sales peak in February and August, indicating higher demand during these periods
 
 ![Mobile Sales Dashboard](images/Dashboard-2.png)
 
-#### Insight 
+#### Insight:
 
 Apple earns slightly more revenue than Samsung and also has higher price and better ratings, showing it is a premium brand.
 → Focus on quality, brand image, and premium features to compete.
@@ -131,7 +131,7 @@ Most customers use UPI and Debit Cards for payment, showing a strong preference 
 
 ![Mobile Sales Dashboard](images/Dashboard-3.png)
 
-#### Insight
+#### Insight:
 
 Delhi and Mumbai generate the highest revenue, contributing nearly 43% of total sales. Delhi alone leads with $203.88M.
 → Focus more marketing, premium products, and inventory in these cities to maximize revenue
@@ -144,7 +144,7 @@ Time-based Revenue Analysis
 
 ![Mobile Sales Dashboard](images/Dashboard-4.png)
 
-#### insight 
+#### Insight:
 
 The business shows strong overall growth of 33.98% YoY, despite small drops in 2023 and 2024, indicating long-term stability.
 → Continue current strategies and invest more in expansion to maintain growth.
@@ -159,12 +159,16 @@ Revenue is evenly distributed across all days of the week, showing no weekend sp
 ### 👤 Author
 Sayali Sutar 
 
+[GitHub](https://github.com/sayalisutar1001-DA)  
+[LinkedIn](https://www.linkedin.com/in/sayali-sutar-0167273b4)
 
-LinkedIn - www.linkedin.com/in/sayali-sutar-0167273b4
+## 📁 Project Structure
 
-GitHub- https://github.com/sayalisutar1001-DA](https://github.com/sayalisutar1001-DA/-Mobile-Sales-Data-Analysis/edit/main)
-
-
+- data/        → Contains dataset files  
+- sql/         → SQL scripts for analysis  
+- dashboard/   → Power BI dashboard file (.pbix)  
+- images/      → Dashboard screenshots  
+- README.md    → Project documentation  
 
 
 
