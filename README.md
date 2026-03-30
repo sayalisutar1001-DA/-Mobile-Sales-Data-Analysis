@@ -1,6 +1,11 @@
 # 📱 Mobile Sales Data Analysis (MySQL + Power BI)
 
-##📌 Project Overview
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Records](https://img.shields.io/badge/Records-3835-green)
+
+
+## 📌 Project Overview
 
 End-to-end data analytics project using SQL and Power BI to analyze mobile sales data, uncover trends, and build interactive dashboards for business insights.
 
@@ -90,7 +95,7 @@ Time-based Revenue Analysis
 
 ### Mobile sales Dashboard
 
-<img width="696" height="458" alt="image" src="https://github.com/user-attachments/assets/55c1953d-514f-48ad-b0a7-092097f13534" />
+![Mobile Sales Dashboard](images/Dashboard-1.png)
 
 #### Insight 
 
@@ -109,7 +114,7 @@ Sales peak in February and August, indicating higher demand during these periods
 
 ### Brand & Product Analysis
 
-<img width="642" height="462" alt="image" src="https://github.com/user-attachments/assets/0df74000-c75e-4c0d-98e0-7b2995f2d0d6" />
+![Mobile Sales Dashboard](images/Dashboard-2.png)
 
 #### Insight 
 
@@ -124,7 +129,7 @@ Most customers use UPI and Debit Cards for payment, showing a strong preference 
 
 ### City & Geography Analysis
 
-<img width="708" height="458" alt="image" src="https://github.com/user-attachments/assets/5e5f7b1b-fd23-42a0-be1e-916c05898745" />
+![Mobile Sales Dashboard](images/Dashboard-3.png)
 
 #### Insight
 
@@ -135,7 +140,9 @@ Cities like Ranchi($31.02M) and Lucknow($28.84M) are generating strong revenue, 
 → Increase presence, promotions, and distribution in Tier-2 cities to capture growing demand.
 
 
-<img width="711" height="458" alt="image" src="https://github.com/user-attachments/assets/09b22c5a-353e-4081-9d09-ce308323b731" />
+Time-based Revenue Analysis
+
+![Mobile Sales Dashboard](images/Dashboard-4.png)
 
 #### insight 
 
